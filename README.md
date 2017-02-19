@@ -1,2 +1,2 @@
 # nsvm
-Supporting repository for ICLR 2017 paper submission.
+Supporting repository for IJCAI 2017 paper submission.
